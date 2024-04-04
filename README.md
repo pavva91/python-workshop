@@ -1,17 +1,17 @@
 # Python
 
-Python is interpreted
-Python is strongly typed (values won't change in unexpected ways)
-Python is dynamically typed
-Python does not need ';' (is not pythonic to use ';')
-Python is a very dynamic language
-In Python everything is an object
-Python is OOP
-Name variables as explicit as possible
-Python scoping happens through indentation (4 spaces) and not through brackets ({})
-Package manager: pip
-Python has 33 keywords
-Index of a list starts at zero
+- Python is interpreted.
+- Python is strongly typed (values won't change in unexpected ways)
+- Python is dynamically typed.
+- Python does not need ';' (is not pythonic to use ';')
+- Python is a very dynamic language
+- In Python everything is an object
+- Python is OOP
+- Name variables as explicit as possible
+- Python scoping happens through indentation (4 spaces) and not through brackets ({})
+- Package manager: pip
+- Python has 33 keywords
+- Index of a list starts at zero
 
 # Project Virtual Environment Setup
 
